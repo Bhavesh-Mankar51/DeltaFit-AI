@@ -1,4 +1,4 @@
-# Fitness Tracker with Machine Learning
+# DeltaFit AI
 
 A comprehensive machine learning-based fitness tracking system that analyzes user activity data, provides personalized insights, and predicts fitness outcomes.
 
@@ -16,7 +16,7 @@ A comprehensive machine learning-based fitness tracking system that analyzes use
 
 ## Overview
 
-This project leverages machine learning algorithms to process fitness tracking data and provide intelligent insights. It aims to help users understand their fitness patterns, predict future performance, and receive personalized recommendations for improvement.
+This project leverages machine learning algorithms to process fitness tracking data and provide intelligent insights. DeltaFit AI aims to help users understand their fitness patterns, predict future performance, and achieve their health goals.
 
 ### Key Objectives
 - Analyze fitness metrics (steps, calories, heart rate, etc.)
@@ -59,7 +59,7 @@ Fitness-Tracker-ML-Project/
 │   └── trained_models/
 ├── tests/
 │   └── test_models.py
-└���─ config/
+└── config/
     └── config.yaml
 ```
 
@@ -162,6 +162,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+**Project**: DeltaFit AI  
 **Author**: Bhavesh Mankar  
-**Last Updated**: 2026-04-01 02:03:49  
+**Last Updated**: 2026-04-01 02:20:48  
 **Status**: Active Development
